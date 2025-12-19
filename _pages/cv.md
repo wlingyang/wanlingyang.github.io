@@ -22,9 +22,6 @@ Undergraduate Research Assistant
 **Nankai University** | Tianjin, China  
 B.E. in New Energy Science & Engineering (Specialized Class)  
 *Sep 2021 – Jun 2025*
-- Major GPA: 91.47/100, 3.94/4.0, Rank: 1st/21
-- Specialized Program initiated by CAS Academician Jun Chen
-- Key Courses: Nano Surface Interface (96), Physical Chemistry (91), Semiconductor Photovoltaic Materials (94), Chemical Power Sources (93)
 
 ---
 
