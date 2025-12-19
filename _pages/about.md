@@ -23,7 +23,7 @@ I am a PhD student in the [Pritzker School of Molecular Engineering](https://pme
 
 **University of Chicago** | Chicago, IL  
 PhD in Pritzker School of Molecular Engineering | Sep 2025 - 
-Advisor: Dr. Po-Chun Hsu
+- Advisor: Dr. Po-Chun Hsu
 
 **Nankai University** | Tianjin, China  
 B.E. in New Energy Science & Engineering (Specialized Class) | Sep 2021 - Jun 2025  
@@ -32,7 +32,7 @@ B.E. in New Energy Science & Engineering (Specialized Class) | Sep 2021 - Jun 20
 
 **University of Texas at Austin** | Austin, TX  
 Undergraduate Research Assistant | Jul 2024 - Mar 2025
-Supervisor: Prof. C. Buddie Mullins
+- Supervisor: Prof. C. Buddie Mullins
 
 ## Recent News
 
