@@ -10,19 +10,19 @@ redirect_from:
 
 ## Welcome! 欢迎！
 
-I am a PhD student in the [Pritzker School of Molecular Engineering](https://pme.uchicago.edu/) at the University of Chicago (2025-2030 expected). My research focuses on electrochemistry, energy storage systems, and advanced characterization techniques.
+I am a PhD student in the [Pritzker School of Molecular Engineering](https://pme.uchicago.edu/) at the University of Chicago (2025-). My research focuses on electrochemistry, energy storage systems, and advanced characterization techniques.
 
 ## Research Interests
 
-- **Electrochemistry & Reaction Mechanisms**: Understanding fundamental electrochemical processes
-- **Energy Storage Systems**: Aqueous zinc batteries, advanced battery materials
-- **Electrocatalysis**: Oxygen evolution reaction, seawater electrolysis
-- **Advanced Characterization**: SEM, XRD, electrochemical analysis
+- **Everything concluding in water system**: 
+- **Energy Storage Systems**: Aqueous zinc batteries
+- **Electrocatalysis**: seawater electrolysis 
+- **Advanced Characterization**: Raman, FTIR, SEM, XRD, electrochemical analysis
 
 ## Education
 
 **University of Chicago** | Chicago, IL  
-PhD in Molecular Engineering | Sep 2025 - Jun 2030 (Expected)
+PhD in Molecular Engineering | Sep 2025 - 
 
 **Nankai University** | Tianjin, China  
 B.E. in New Energy Science & Engineering (Specialized Class) | Sep 2021 - Jun 2025  
@@ -42,9 +42,6 @@ Undergraduate Research Assistant | Jul 2024 - Mar 2025
 1. **X. Wang et al.** (2024). Electrosynthesis of Transition Metal Coordinated Polymers for Active and Stable Oxygen Evolution. *Angewandte Chemie*, 63(39), e202409628. [Link](https://doi.org/10.1002/anie.202409628)  
    *Note: Contributed as the sole undergraduate author*
 
-2. **W. Yang**, Z. Wang, Q. Zhao, C.B. Mullins. Gradient Zinc Powder Anode with Enhanced Reaction Kinetics for Ultralong-Life Flexible Aqueous Zinc Pouch Cells. *Manuscript in preparation.*
-
-3. **W. Yang** et al. Research on the Mechanism of Small Batteries. *Chinese Journal of Chemistry Education*. *Under review.*
 
 ---
 
