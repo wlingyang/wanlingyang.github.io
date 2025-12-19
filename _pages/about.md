@@ -34,6 +34,12 @@ B.E. in New Energy Science & Engineering (Specialized Class) | Sep 2021 - Jun 20
 Undergraduate Research Assistant | Jul 2024 - Mar 2025
 - Supervisor: Prof. C. Buddie Mullins
 
+**University of Texas at Austin** | Austin, TX  
+Undergraduate Research Assistant | Jul 2024 - Mar 2025
+- Supervisor: Prof. C. Buddie Mullins
+
+**Technical Institute of Physics and Chemistry, CAS** | Beijing, China 
+  
 ## Recent News
 
 - **2024**: Paper published in *Angewandte Chemie* - NiFe-PPy electrocatalyst for oxygen evolution reaction
