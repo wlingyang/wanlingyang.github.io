@@ -26,7 +26,6 @@ PhD in Molecular Engineering | Sep 2025 - Jun 2030 (Expected)
 
 **Nankai University** | Tianjin, China  
 B.E. in New Energy Science & Engineering (Specialized Class) | Sep 2021 - Jun 2025  
-- Major GPA: 3.94/4.0, Rank: 1st/21
 - Specialized program initiated by CAS Academician Jun Chen
 
 **University of Texas at Austin** | Austin, TX  
