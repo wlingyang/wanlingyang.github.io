@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Wanling Yang | 杨宛玲"
 title_separator          : "-"
 name                     : &name "Wanling Yang"
-description              : &description "PhD Student in Molecular Engineering | Energy Storage & Electrochemistry"
+description              : &description "PhD Student in Energy Storage & Electrochemistry"
 url                      : https://wlingyang.github.io
 baseurl                  : ""
 repository               : "wlingyang/wlingyang.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Wanling Yang (杨宛玲)"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student @ UChicago | Energy Storage & Electrochemistry"
+  bio              : "PhD Student @ UChicago | Pritzker of Molecular Engineering"
   location         : "Chicago, IL, United States"
   employer         : "University of Chicago"
   uri              : # URL
@@ -85,7 +85,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Electrosynthesis of Transition Metal Coordinated Polymers for Active and Stable Oxygen Evolution.Angewandte Chemie. 63(39), e202409628. X. Wang, F. Liu, H. Qin, J. Li, X. Chen, K. Liu, T. Zhao, W. Yang, M. Yu, G. Fan, F. Cheng. (2024) '    
   conferences:
     title: 'Conference Papers'
 
