@@ -14,7 +14,7 @@ I am a PhD student in the [Pritzker School of Molecular Engineering](https://pme
 
 ## Research Interests
 
-- **Everything concluding in water system**: 
+- **Everything in water system**: 
 - **Energy Storage Systems**: Aqueous zinc batteries
 - **Electrocatalysis**: seawater electrolysis 
 - **Advanced Characterization**: Raman, FTIR, SEM, XRD, electrochemical analysis
@@ -22,18 +22,21 @@ I am a PhD student in the [Pritzker School of Molecular Engineering](https://pme
 ## Education
 
 **University of Chicago** | Chicago, IL  
-PhD in Molecular Engineering | Sep 2025 - 
+PhD in Pritzker School of Molecular Engineering | Sep 2025 - 
+Advisor: Dr. Po-Chun Hsu
 
 **Nankai University** | Tianjin, China  
 B.E. in New Energy Science & Engineering (Specialized Class) | Sep 2021 - Jun 2025  
-- Specialized program initiated by CAS Academician Jun Chen
+- Specialized program since 2019, initiated by CAS Academician Jun Chen 
+- Class Instructor: Dr. Qing Zhao since Sep 2021
 
 **University of Texas at Austin** | Austin, TX  
 Undergraduate Research Assistant | Jul 2024 - Mar 2025
+Supervisor: Prof. C. Buddie Mullins
 
 ## Recent News
 
-- **2024**: Paper published in *Angewandte Chemie* - NiFe-PPy electrocatalyst for oxygen evolution
+- **2024**: Paper published in *Angewandte Chemie* - NiFe-PPy electrocatalyst for oxygen evolution reaction
 - **2024-2025**: Research on gradient zinc powder anodes at UT Austin
 - **2024**: Received First Prize Scholarship from PPG Industries Inc.
 
