@@ -13,7 +13,7 @@ redirect_from:
 
 **University of Chicago** | Chicago, IL, United States  
 Pritzker School of Molecular Engineering, PhD Student  
-*Sep 2025 – Jun 2030 (Expected)*
+*Sep 2025 – *
 
 **University of Texas at Austin** | Austin, TX, United States  
 Undergraduate Research Assistant  
@@ -22,6 +22,10 @@ Undergraduate Research Assistant
 **Nankai University** | Tianjin, China  
 B.E. in New Energy Science & Engineering (Specialized Class)  
 *Sep 2021 – Jun 2025*
+
+**University of Texas at Austin** | Austin, TX, United States  
+Undergraduate Research Assistant  
+*Jul 2024 – Mar 2025*
 
 ---
 
